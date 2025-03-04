@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozammalhaidar&label=Profile%20views&color=0e75b6&style=flat" alt="mozammalhaidar" /> </p>
 
-- 🌱 I’m currently learning **React-JS**
+- 🌱 I’m currently learning **Python-Django**
 
-- 💬 Ask me about **React,PHP,Laravel**
+- 💬 Ask me about **Frontend web development**
 
 - 📫 How to reach me **haidarmozammal@gmail.com**
 
